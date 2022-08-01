@@ -1,4 +1,4 @@
 # Inventory-Management
 Project
-be prepair programming on me
+be prepaired programming on me
 I love programming :) 
